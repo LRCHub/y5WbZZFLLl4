@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "東京マーブル",
+  "base_artist": "にしな",
+  "createdAt": "2026-02-18T16:38:06.390465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "東京マーブル",
+      "artist": "にしな",
+      "has_synced": true,
+      "path": "select/01_東京マーブル_にしな.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "東京マーブル - Tokyo Marble",
+      "artist": "nishina",
+      "has_synced": true,
+      "path": "select/02_東京マーブル_-_Tokyo_Marble_nishina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京マーブル",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/pl_01_東京マーブル_にしな.txt"
+    }
+  ]
+}
